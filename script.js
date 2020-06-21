@@ -330,21 +330,21 @@ document.write(`
 <h3>Gross Amount Payable: ${grossAmount}</h3>
 `); */
 
-// Chapter 35-38 Assignment 1
+// Chapter 35-38 Assignment 11
 
 /* function dateTime(){
     let curr= new Date().toLocaleString();
 document.write(`<h1>${curr}</h1>`);
 } */
 
-// Chapter 35-38 Assignment 2
+// Chapter 35-38 Assignment 12
 /* function fullName(){
     let first=prompt("Enter First Name");
     let last =prompt("Enter Last Name");
     document.write(first+last);
 } */
 
-// Chapter 35-38 Assignment 3
+// Chapter 35-38 Assignment 13
 /* function sum(){
     let var1=prompt("Input 1st number");
     let var2=prompt("Input 2nd number");
